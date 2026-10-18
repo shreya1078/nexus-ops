@@ -40,7 +40,7 @@ Newtonite historically managed mission-critical operational work through ad-hoc 
 
 1. **Clone or enter the project directory**:
    ```bash
-   cd /app/applet
+   cd nexus-ops
    ```
 
 2. **Install dependencies**:
