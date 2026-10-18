@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Ops",
+  "description": "Enterprise operations management and incident response command center for mission-critical workflows, cross-functional team boards, approval gates, and real-time auditability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
